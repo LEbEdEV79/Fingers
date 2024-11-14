@@ -2,8 +2,11 @@
 
 Заголовки для DataFrame с названиями точек одной руки Mediapipe
 
+
+ 
 titles = [
-    'wrist_x', 'wrist_y', 'wrist_z',          # Запястье
+
+    'wrist_x', 'wrist_y', 'wrist_z',          # Запястье    
     'thumb_cmc_x', 'thumb_cmc_y', 'thumb_cmc_z',  # Основание большого пальца
     'thumb_mcp_x', 'thumb_mcp_y', 'thumb_mcp_z',  # Сустав большого пальца
     'thumb_ip_x', 'thumb_ip_y', 'thumb_ip_z',      # Кончик большого пальца
